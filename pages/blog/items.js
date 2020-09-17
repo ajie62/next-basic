@@ -11,6 +11,14 @@ const Items = () => {
 
             <Layout>
                 <h1>Items</h1>
+
+                <h2>Categories list</h2>
+                <ul>
+                    <li>Culture</li>
+                    <li>Geography</li>
+                    <li>Social</li>
+                    <li>Economics</li>
+                </ul>
             </Layout>
         </>
     )
