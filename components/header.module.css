@@ -1,0 +1,14 @@
+.header {
+    border: 1px solid #DDD;
+    margin: 20px;
+    padding: 20px
+}
+
+.link {
+    margin: 15px
+}
+
+.active {
+    color: blue;
+    margin: 15px
+}
